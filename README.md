@@ -1,2 +1,2 @@
-# AndriiAZ-github.io
+# AndriiAZ.github.io
 portfolio website
