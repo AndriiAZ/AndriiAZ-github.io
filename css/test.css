@@ -1,0 +1,87 @@
+
+@media (max-height: 660px) {
+	body {
+		font-size: 14px;
+	}
+	.banner-main_center img {
+		width: 125px;
+		margin: 0 0 15px 0;
+	}
+	h1, h2 {
+		font-size: 30px;
+	}
+	.banner-main_center h1 {
+		max-width: 474px;
+	}
+	.banner-main_center p {
+		max-width: 729px;
+		margin: 0 auto 30px;
+		line-height: 25px;
+	}
+	a.banner-main_link {
+		font-size: 16px;
+		padding: 7px 0 9px 0;
+		max-width: 141px;
+	}
+	.banner-main_center {
+		top: 40px;
+	}
+}
+
+@media (max-height: 500px) {
+	.banner-main_center {
+		position: inherit;
+		top: inherit;
+		left: inherit;
+		right: inherit;
+		margin: 0 auto 20px;
+	}
+	a.banner-main_down {
+		position: inherit;
+		left: inherit;
+		right: inherit;
+		bottom: inherit;
+
+	}
+	.banner-main {
+		height: inherit;
+		padding: 30px 0 45px;
+	}
+	a.banner-main_link {
+		margin-bottom: 50px;
+	}
+
+}
+
+
+
+@media (max-width: 1200px) {
+
+	.block {
+		padding: 60px 0;
+	}
+
+	.flexbox {
+		display: inherit;
+		margin: 50px 0 25px 0;
+	}
+
+	.thumb, .thumb_blanc {
+		margin: 0 auto;
+	}
+	
+	.thumb, .thumb_blanc, .thumb img, .thumb_blanc img {
+		width: 450px;
+	}
+
+	.flexbox_item {
+		margin-bottom: 30px;
+	}
+	.flexbox_item p {
+		max-width: 550px;
+	}
+	.flexbox_icon {
+		margin: 0 auto 30px;
+	}
+
+}
